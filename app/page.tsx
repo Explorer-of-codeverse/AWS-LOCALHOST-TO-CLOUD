@@ -96,7 +96,7 @@ export default function Home() {
         </p>
         <div className="btns">
           <a href="#projects" className="btn-p">view projects →</a>
-          <a href="/resume.pdf" className="btn-s">download cv</a>
+          {/* <a href="/resume.pdf" className="btn-s">download cv</a> */}
         </div>
       </div>
 
