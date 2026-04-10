@@ -221,10 +221,10 @@ export default function Home() {
             <p>Open to internships, collabs &amp; cool ideas.</p>
           </div>
           <div className="socials">
-            {/* Replace # with your actual profile links */}
+            
             <a href="https://github.com/Explorer-of-codeverse" className="soc" target="_blank" rel="noopener noreferrer">github</a>
-            <a href="https://linkedin.com/in/yourusername" className="soc" target="_blank" rel="noopener noreferrer">linkedin</a>
-            <a href="mailto:aayushbhattacherjee@example.com" className="soc">email</a>
+            {/* <a href="https://linkedin.com/in/yourusername" className="soc" target="_blank" rel="noopener noreferrer">linkedin</a> */}
+            <a href="mailto:aayushbhattacherjee@gmail.com" className="soc">email</a>
           </div>
         </div>
       </section>
